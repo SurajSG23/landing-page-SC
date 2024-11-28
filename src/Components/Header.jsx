@@ -86,7 +86,7 @@ const MainContainer = styled.div`
   }
 
   .logo {
-    background: url("./src/assets/SC-logo.png") no-repeat center/contain;
+    background: url("https://github.com/SurajSG23/landing-page-SC/raw/main/src/assets/SC-logo.png") no-repeat center/contain;
     width: 180px;
     height: 70px;
     filter: drop-shadow(2px 2px 5px blue);

@@ -8,7 +8,7 @@ const Body = () => {
         <a href="https://video-upload-poc.vercel.app/" target="_blank">
           <div class="card">
             <b></b>
-            <img src="./src/assets/classes.png" alt="interview" />
+            <img src="https://github.com/SurajSG23/landing-page-SC/raw/main/src/assets/classes.png" alt="interview" />
             <div class="content">
               <p class="title">
                 <h3>Access Virtual Lessons</h3>
@@ -19,7 +19,7 @@ const Body = () => {
         </a>
         <div class="card">
           <b></b>
-          <img src="./src/assets/interview.png" alt="interview" />
+          <img src="https://github.com/SurajSG23/landing-page-SC/raw/main/src/assets/interview.png" alt="interview" />
           <div class="content">
             <p class="title">
               <h3>AI-Operated Interview</h3>
@@ -29,7 +29,7 @@ const Body = () => {
         </div>
         <div class="card">
           <b></b>
-          <img src="./src/assets/resume.png" alt="interview" />
+          <img src="https://github.com/SurajSG23/landing-page-SC/raw/main/src/assets/resume.png" alt="interview" />
           <div class="content">
             <p class="title">
               <h3>Generate My Resume</h3>

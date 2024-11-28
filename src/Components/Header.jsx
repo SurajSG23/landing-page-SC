@@ -32,12 +32,12 @@ export default Header;
 
 const MainContainer = styled.div`
   width: 100%;
-  height: 11vh;
+  height: auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
   color: white;
-  padding: 0 3vw;
+  padding: 3px 3vw;
 
   .about {
     cursor: pointer;

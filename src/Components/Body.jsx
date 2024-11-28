@@ -5,7 +5,7 @@ const Body = () => {
     <MainContainer>
       <div style={{textAlign:'center',paddingTop:'20px'}}><h2>Welcome Back, USERNAME</h2></div>
       <div className="body">
-        <a href="https://video-upload-poc.vercel.app/" target="_blank">
+        //<a href="https://video-upload-poc.vercel.app/" target="_blank">
           <div class="card">
             <b></b>
             <img src="https://github.com/SurajSG23/landing-page-SC/raw/main/src/assets/classes.png" alt="interview" />
@@ -16,7 +16,7 @@ const Body = () => {
               </p>
             </div>
           </div>
-        </a>
+        //</a>
         <div class="card">
           <b></b>
           <img src="https://github.com/SurajSG23/landing-page-SC/raw/main/src/assets/interview.png" alt="interview" />

@@ -34,7 +34,7 @@ const Body = () => {
             <p class="title">
               <h3>Generate My Resume</h3>
               <br />
-              {/*  <span>Coming soon...</span>*/}
+              <span>Coming soon...</span>
             </p>
           </div>
         </div>

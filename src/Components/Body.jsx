@@ -3,7 +3,7 @@ import styled from "styled-components";
 const Body = () => {
   return (
     <MainContainer>
-      <div style={{textAlign:'center',paddingTop:'20px'}}><h2>Welcome Back, USER NAME</h2></div>
+      <div style={{textAlign:'center',paddingTop:'20px'}}><h2>Welcome Back, USER_NAME</h2></div>
       <div className="body">
         {/* <a href="" target="_blank"> */}
           <div class="card">
